@@ -1,0 +1,5 @@
+python app.py --- to run the server if file name is app.py
+python_env/site_package/activate
+
+flas run --host=0.0.0.0
+
